@@ -1,0 +1,24 @@
+{
+  "name": "mockdiployement",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akashtijare/mockdiployement.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akashtijare/mockdiployement/issues"
+  },
+  "homepage": "https://github.com/akashtijare/mockdiployement#readme",
+  "description": "",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
